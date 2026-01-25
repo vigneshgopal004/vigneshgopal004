@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Vignesh
 
-<!--
-**vigneshgopal004/vigneshgopal004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps Engineer with strong focus on Linux administration,
+incident troubleshooting, CI/CD workflows, Kubernetes, and AWS infrastructure.
 
-Here are some ideas to get you started:
+### Core Skills
+- Linux Administration (systemd, LVM, logs, troubleshooting)
+- AWS (EC2, VPC, IAM, ALB, S3, CloudWatch, Systems Manager)
+- CI/CD (Jenkins, Git, Docker)
+- Kubernetes (kubeadm), Helm
+- Infrastructure as Code (Terraform)
+- Security (UFW, ports, service exposure control)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Key Projects
+- Linux Production Incident Response & Root Cause Analysis (RCA)
+- Kubernetes CI/CD Pipeline (Jenkins, Docker, Helm)
+- Secure AWS Infrastructure Provisioning with Terraform
+- Secure Self-Hosted Storage – Linux Reliability & Operations
+- Jenkins + Docker + Linux CI/CD Workflows
+
+📫 LinkedIn: https://linkedin.com/in/vigneshgopal004
